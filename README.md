@@ -21,9 +21,6 @@ Key Features:
                        Organized media assets such as images, fonts, and JavaScript files within the project structure. Implemented static file handling in Django to efficiently serve static content, optimizing website performance and loading times.
 
 Technologies Used:
-                     Django framework for backend development and templating
-                     HTML, CSS, and JavaScript for frontend design and interactivity
-                     Bootstrap CSS framework for responsive layout and styling
-                     jQuery library for DOM manipulation and event handling
-                     Font Awesome and other icon libraries for iconography
-                     SQLite database for data storage during development
+                     Django framework for backend development and templating. HTML, CSS, and JavaScript for frontend design and interactivity. Bootstrap CSS framework for responsive 
+                     layout and styling. jQuery library for DOM manipulation and event handling. Font Awesome and other icon libraries for iconography. SQLite database for data storage 
+                     during development.
